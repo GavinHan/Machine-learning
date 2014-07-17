@@ -10,3 +10,4 @@ Machine-learning
 8. AdaBoost
 9. Apriori
 10. PageRank
+11. SVD
